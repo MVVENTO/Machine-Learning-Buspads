@@ -15,6 +15,7 @@
 
 ![](https://uploads-ssl.webflow.com/5f6bc60e665f54545a1e52a5/615627e5824c9c6195abfda9_computer-vision-cycle.png)
 
+
 # STEP 1 : Install Requirements
 
 #clone YOLOv5 and
@@ -376,6 +377,7 @@ print(f"Total number of new images found: {image_count}")
 
 
 
+![](https://github.com/MVVENTO/Machine-Learning-Buspads/blob/main/MLresults-buspads.png)
 
 
 
