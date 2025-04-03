@@ -41,7 +41,7 @@ names: ['class1', 'class2', ...]
 ![Sample Annotated Image](path/to/annotated_image.jpg)
 
 #### Training Process Visualization
-![Training Process](path/to/training_process.jpg)
+![Training Model using Custom Dataset](https://github.com/MVVENTO/Machine-Learning-Buspads/blob/main/Recording%20buspad%20ML%20training.mp4)
 
 ## Installation
 1. Clone the repository:
@@ -82,7 +82,7 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 640 --source pat
 The model's performance is assessed using accuracy, precision, recall, and F1-score. The following table summarizes the results:
 
 ![](https://github.com/MVVENTO/Machine-Learning-Buspads/blob/main/MLresults-buspads.png)
-# ![](https://github.com/MVVENTO/Machine-Learning-Buspads/blob/main/MLresults-buspads.png)
+
 
 | Metric  | Score  |
 |---------|--------|
