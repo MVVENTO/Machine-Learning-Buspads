@@ -73,6 +73,8 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 640 --source pat
   ```bash
   tensorboard --logdir runs/train
   ```
+  
+![](https://github.com/MVVENTO/Machine-Learning-Buspads/blob/main/MLresults-buspads.png)
 
 ## Conclusion
 This project demonstrates how to train a YOLOv5 model using a custom dataset (Buspads). Further improvements can be made by optimizing hyperparameters and augmenting the dataset for better accuracy.
